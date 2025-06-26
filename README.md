@@ -140,7 +140,7 @@ This project is licensed under the MIT License.
 - [Sui Website](https://sui.io/)
 - [Sui Discord](https://discord.com/invite/Sui)
 - [Sui Documentation](https://docs.sui.io/)
-- [DevDanny GitHub](https://github.com/devdanny)
+- [DevDanny GitHub](https://github.com/Verifieddanny)
 
 ---
 

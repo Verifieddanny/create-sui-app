@@ -14,16 +14,25 @@ A beautiful CLI tool to scaffold Sui dApps with React or Next.js, featuring Type
 
 ## 🚀 Quick Start
 
-```bash
+
 # Using npx (recommended)
+
+```bash
 npx sui-dapp-cli@latest
+```
 
 # Or global install
+
+```bash
 npm install -g sui-dapp-cli
 sui-dapp-cli
+```
 
 # Alternative (if you set multiple bin names)
+
+```bash
 npx sui-dapp
+```
 
 ## 📦 Available Templates
 

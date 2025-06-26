@@ -11,18 +11,19 @@ A beautiful CLI tool to scaffold Sui dApps with React or Next.js, featuring Type
 - 📱 **Responsive Design** with Tailwind CSS
 - ⚡ **Modern Tooling** (Vite, Next.js 15, React 18)
 
+
 ## 🚀 Quick Start
 
 ```bash
 # Using npx (recommended)
-npx create-sui-app
+npx sui-dapp-cli@latest
 
-# Or using npm
-npm create sui-app
+# Or global install
+npm install -g sui-dapp-cli
+sui-dapp-cli
 
-# Alternative command
-npx sui-app
-```
+# Alternative (if you set multiple bin names)
+npx sui-dapp
 
 ## 📦 Available Templates
 
@@ -56,7 +57,7 @@ After creating your project:
 
 ## 📁 Project Structure
 
-```
+```bash
 my-sui-app/
 ├── src/                    # Source code
 │   ├── components/         # React components

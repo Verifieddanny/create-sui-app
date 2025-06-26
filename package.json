@@ -1,12 +1,12 @@
 {
-  "name": "create-sui-app",
+  "name": "sui-dapp-cli",
   "version": "1.0.0",
   "description": "A beautiful CLI tool to scaffold Sui dApps with React or Next.js",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "create-sui-app": "./bin/cli.js",
-    "sui-app": "./bin/cli.js"
+    "sui-dapp-cli": "bin/cli.js",
+    "sui-dapp": "bin/cli.js"
   },
   "scripts": {
     "dev": "node bin/cli.js",
@@ -41,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Verifieddanny/create-sui-app"
+    "url": "git+https://github.com/Verifieddanny/create-sui-app.git"
   },
   "bugs": {
     "url": "https://github.com/Verifieddanny/create-sui-app/issues"

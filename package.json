@@ -1,6 +1,6 @@
 {
   "name": "sui-dapp-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A beautiful CLI tool to scaffold Sui dApps with React or Next.js",
   "main": "index.js",
   "type": "module",
